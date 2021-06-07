@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfZbRjkYLFC2Eny8G33Q2mmmhJcw72D3VDljFYHobHeOO77wuKY8einNDTI5MSweJ0cL16Lr+QLE6SzYzjjItA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henri\\Desktop\\TDE\\TDE\\TDE.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henri\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\fsharp.data\\4.1.1\\fsharp.data.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
